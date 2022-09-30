@@ -2,6 +2,9 @@
 
 .env
 src/server/config.js
+
+agora.js
+
 # dependencies
 /node_modules
 /.pnp
